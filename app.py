@@ -8,7 +8,7 @@ import seaborn as sns
 import requests
 
 st.set_page_config(page_title="Retail Cluster Analysis", page_icon="💰")
-st.title("💰 Personal Budget Manager")
+st.title("💰 Retail Cluster Analysis")
 
 # Set aesthetic parameters
 sns.set_theme(style="whitegrid")
