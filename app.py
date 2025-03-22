@@ -7,6 +7,9 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import requests
 
+st.set_page_config(page_title="Retail Cluster Analysis", page_icon="💰")
+st.title("💰 Personal Budget Manager")
+
 # Set aesthetic parameters
 sns.set_theme(style="whitegrid")
 plt.rcParams['figure.figsize'] = (12, 8)
